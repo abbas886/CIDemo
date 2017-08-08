@@ -7,6 +7,7 @@ import org.junit.Test;
 
 public class UserServiceTestCase {
 
+	//declaring UserService object - new commit
 	
 	private static UserService userService;
 	
